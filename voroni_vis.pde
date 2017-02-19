@@ -3,7 +3,7 @@ int max_points = 100;
 Point[] points = new Point[max_points];
 color[] colors = new color[max_points];
 PImage img;
-int max_distance = int(sqrt(sq(width) + sq(height)));
+int max_distance = width * height; //int(sqrt(sq(width) + sq(height)));
 
 void setup() 
 {
