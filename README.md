@@ -3,4 +3,4 @@ An interactive tool for drawing graphical a Voronoi diagram (https://en.wikipedi
 
 Instead of brute force, an optimisation would be to use Fortune's algorithm - https://en.wikipedia.org/wiki/Fortune%27s_algorithm 
 
-![](voroni_demo.gif)
+![](voronoi_demo.gif)
